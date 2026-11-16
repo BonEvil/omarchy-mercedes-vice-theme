@@ -1,0 +1,36 @@
+/* Mercedes Vice: midnight indigo, neon cyan selections, sunny folder icons. */
+.thunar {
+  background-color: #151127;
+  color: #f2e8ff;
+}
+.thunar .standard-view .view {
+  background-color: #151127;
+  color: #f2e8ff;
+}
+.thunar .sidebar,
+.thunar .sidebar .view {
+  background-color: #100d20;
+  color: #dfcdef;
+}
+.thunar toolbar,
+.thunar menubar,
+.thunar statusbar,
+.thunar headerbar {
+  background-color: #29203f;
+  background-image: none;
+  color: #f2e8ff;
+}
+.thunar .view:selected,
+.thunar .view:selected:focus {
+  background-color: #47e5ff;
+  color: #100d20;
+}
+.thunar entry {
+  background-color: #100d20;
+  color: #f2e8ff;
+  border-color: #796591;
+}
+
+/* BEGIN Mercedes Vice navigation */
+.thunar toolbar { -gtk-icon-style: regular; }
+/* END Mercedes Vice navigation */
