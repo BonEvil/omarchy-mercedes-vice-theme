@@ -2,9 +2,7 @@
 
 A dark synthwave theme for Omarchy: midnight indigo, neon cyan and pink, and a sunset-gradient window border. The wallpaper features a red Mercedes-Benz W201 beside a Miami-inspired waterfront, signed with a gold camera icon and chrome `daily_w201` lettering.
 
-![Mercedes Vice wallpaper](preview.png)
-
-The preview above shows the wallpaper, not a desktop screenshot.
+![Mercedes Vice desktop with a terminal and editor](preview.png)
 
 ## Install
 
@@ -26,11 +24,15 @@ omarchy theme set "Mercedes Vice"
 - `shell.bar.toml`: translucent indigo bar with pink accents, merged into the generated shell configuration.
 - `backgrounds/mercedes-vice.png`: the approved wallpaper.
 - `icons.theme`: selects Yaru-yellow, which must be installed on the target machine.
-- `preview.png`: wallpaper preview for the theme switcher.
+- `preview.png`: desktop preview for the theme switcher.
 
 Prepared against the Omarchy installation on the author's machine in November 2026. Shell section overrides and gradient palette keys require an Omarchy version that supports them. No custom terminal or editor configuration is installed by this theme.
 
 ## Optional custom icons
+
+![Optional custom icons and Thunar styling](docs/optional-icons.webp)
+
+**Optional extras:** this screenshot shows the custom folder icons, Thunar styling, and transparency described below. These require manual setup; a standard installation uses Yaru-yellow.
 
 The included Mercedes Vice icon set adds palm and sunset details and inherits missing icons from Yaru-yellow, Yaru, Adwaita and hicolor. The theme installer does not install this extra automatically.
 
