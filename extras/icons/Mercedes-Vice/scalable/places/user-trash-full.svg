@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+<!-- Open rim and overflowing rubbish; the lid is lifted to the right. -->
+<ellipse cx="30" cy="26" rx="17" ry="5" fill="#29203f"/>
+<path d="m15 26 2-12 7-4 8 7-2 11Z" fill="#ff4fc3"/>
+<path d="m26 27 4-15 9 1 6 10-4 6Z" fill="#ffd580"/>
+<path d="m17 14 6 4-3 7m11-9 5 6 6-1" fill="none" stroke="#151127" stroke-width="1.8" stroke-linejoin="round" opacity=".55"/>
+<path d="m13 27 4 26a4 4 0 0 0 4 4h18a4 4 0 0 0 4-4l4-26q-17 6-34 0Z" fill="#68ebbd"/>
+<path d="M24 35v14m12-14v14" stroke="#151127" stroke-width="3" opacity=".65"/>
+<g transform="rotate(32 48 13)"><path d="M38 13h21M44 12V6h10v6" fill="none" stroke="#68ebbd" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>
