@@ -77,6 +77,6 @@ These rules are optional and persist across themes. The btop rule matches Omarch
 
 ## Artwork and license
 
-The wallpaper was created with AI assistance using the author's car photographs as references, then edited to add the `daily_w201` signature. Source photographs and generation prompts are not included.
+The wallpaper was created with AI assistance using the author's car photographs as references, then given a composited gold/chrome `daily_w201` signature. The original wallpaper pixels outside the signature are preserved, and the placement accommodates centered cropping on 16:9 and 16:10 displays. Source photographs and generation prompts are not included.
 
 MIT licensed; see [LICENSE](LICENSE). Referenced external icon themes remain under their own licenses and are not bundled. Mercedes-Benz and Instagram are referenced descriptively; this is an independent community theme with no affiliation or endorsement.
