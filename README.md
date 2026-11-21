@@ -22,7 +22,7 @@ omarchy theme set "Mercedes Vice"
 
 - `colors.toml`: dark palette and sunset-gradient active window border. Omarchy generates application configs from this palette.
 - `shell.bar.toml`: translucent indigo bar with pink accents, merged into the generated shell configuration.
-- `backgrounds/mercedes-vice.png`: the approved wallpaper.
+- `backgrounds/mercedes-vice.webp`: the approved wallpaper.
 - `icons.theme`: selects Yaru-yellow, which must be installed on the target machine.
 - `preview.png`: desktop preview for the theme switcher.
 
@@ -77,6 +77,6 @@ These rules are optional and persist across themes. The btop rule matches Omarch
 
 ## Artwork and license
 
-The wallpaper was created with AI assistance using the author's car photographs as references, then given a composited gold/chrome `daily_w201` signature. The original wallpaper pixels outside the signature are preserved, and the placement accommodates centered cropping on 16:9 and 16:10 displays. Source photographs and generation prompts are not included.
+The wallpaper was created with AI assistance using the author's car photographs as references, then given a composited gold/chrome `daily_w201` signature. The signature was composited onto the original artwork without redrawing the background. The distributed wallpaper is encoded as WebP at quality 82, and the placement accommodates centered cropping on 16:9 and 16:10 displays. Source photographs and generation prompts are not included.
 
 MIT licensed; see [LICENSE](LICENSE). Referenced external icon themes remain under their own licenses and are not bundled. Mercedes-Benz and Instagram are referenced descriptively; this is an independent community theme with no affiliation or endorsement.
